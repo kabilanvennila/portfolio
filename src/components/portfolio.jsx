@@ -3,7 +3,7 @@ import React from "react";
 //import stock
 import stock from "../img/air.jpg";
 import stock1 from "../img/cat-min.jpg";
-import stock3 from "../img/stoc.jpg";
+import stock3 from "../img/panda.jpg";
 import stock2 from "../img/placements.jpg"
 
 class Portfolio extends React.Component {
@@ -58,14 +58,14 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://share.streamlit.io/kabilanvennila/stockapp/main">
+                <a href="https://share.streamlit.io/kabilanvennila/crypanda/main">
                   <div className="work-img">
                     <img src={stock3} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">StockPanda - An interactive web app that can predict future stock prices using machine learning</h2>
+                        <h2 className="w-title">CryptoPanda - An Interactive Machine learning Web App that can predict Cryptos</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
                             python scikitlearn streamlit

@@ -33,7 +33,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Hi :) i'm currently pursuing my Undergrad in SRMKTR-India majoring in computer science.I am learning various algortihms and methods in Data science by working hands-on. "
+            "Hi 👋 i'm currently pursuing my Undergrad in SRMKTR-India majoring in computer science.I am learning various algorithms and methods in Data science by working hands-on. "
         },
         {
           id: "second-p-about",
