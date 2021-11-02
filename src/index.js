@@ -18,6 +18,8 @@ import './libs/easing.js';
 import 'lightbox2/dist/js/lightbox.min.js';
 
 import * as serviceWorker from './serviceWorker';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 //import components
 import Navbar from './components/navbar.jsx';
@@ -30,9 +32,25 @@ import Preloader from './components/preloader';
 import Res from './components/experience.jsx';
 import PM from './components/projanim.js'
 
+const notify = () => toast("Heyya🤩 Feel free to explore here and have a Nice day 🎉 !");
+ 
+window.onload = function() {
+  notify();
+};
 
 ReactDOM.render(
     <React.Fragment>
+        <ToastContainer
+          position="bottom-center"
+          autoClose={9000}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+        />
         <Navbar />
         <Intro />
         <About />
