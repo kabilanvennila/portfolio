@@ -21,17 +21,17 @@ class Res extends React.Component {
              <VerticalTimeline>
                  <VerticalTimelineElement
                     className="vertical-timeline-element--education"
-                    date="April 2021"
+                    date="Oct 2021"
                     iconStyle={{ background: 'rgb(233, 30, 99)', color: '#000' }}
                     icon={<ComputerIcon />}
                 >
-                    <h3 className="vertical-timeline-element-title">Time-series</h3>
+                    <h3 className="vertical-timeline-element-title">Covid Study</h3>
                     <h4 className="vertical-timeline-element-subtitle">Ongoing</h4>
                     <p>
                     Machine learning
                     </p>
                 </VerticalTimelineElement>
-                <VerticalTimelineElement
+                {/* <VerticalTimelineElement
                     className="vertical-timeline-element--education"
                     date="April 2021"
                     iconStyle={{ background: 'rgb(233, 30, 99)', color: '#000' }}
@@ -42,7 +42,7 @@ class Res extends React.Component {
                     <p>
                     Machine learning
                     </p>
-                </VerticalTimelineElement>
+                </VerticalTimelineElement> */}
                 
                 {/* <VerticalTimelineElement
                     className="vertical-timeline-element--education"

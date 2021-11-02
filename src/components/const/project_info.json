@@ -1,0 +1,43 @@
+{
+    "data": [
+      {
+        "id" : 0,
+        "name": "Movie Genre Prediction based on Movie Posters",
+        "tools": "Reactjs,Tensorflow",
+        "link": "#"
+
+      },
+      {
+        "id" : 1,
+        "name": "Candybot - AI Suicide Prevention Bot",
+        "tools": "Reactjs,AlanAI,Django",
+        "link": "https://candybot.co/"
+
+      },
+      {
+        "id" : 2,
+        "name": "CrytoPanda - Predict Cryptos using ML",
+        "tools": "Streamlit,Scikit,Pandas",
+        "link": "https://share.streamlit.io/kabilanvennila/crypanda/main"
+      },
+      {
+        "id" : 3,
+        "name": "Gity - Github Info Lookup tool",
+        "tools": "Reactjs,Github-API",
+        "link": "https://reactgity.netlify.app/"
+      },
+      {
+        "id" : 4,
+        "name": "Animeboo - Sharing Space for Anime lovers",
+        "tools": "Django,HTML,CSS",
+        "link": "https://github.com/kabilanvennila/animeboo"
+      },
+      {
+        "id" : 5,
+        "name": "Predict placement status using KNN-classification",
+        "tools": "JupyterNotebook,Scikit,Pandas",
+        "link": "https://github.com/kabilanvennila/MachineLearning/blob/master/classification.ipynb"
+      }
+    ]
+  }
+  

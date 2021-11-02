@@ -108,7 +108,8 @@ class About extends React.Component {
                       <a
                       id="me1"
                       className="btn btn-primary btn js-scroll px-4"
-                      href="https://drive.google.com/file/d/1NkvRfwtBFcEDNF_MJOu5KUVJZ7XasYHL/view?usp=sharing"
+                      href="https://drive.google.com/file/d/19tdHtw4rm02q4caCV5qscisABrORR3Ua/view?usp=sharing"
+                      target="_blank"
                       role="button"
                     >
                       My Resume

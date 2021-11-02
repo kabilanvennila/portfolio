@@ -3,9 +3,8 @@ import "./stars.scss";
 import Typed from "react-typed";
 
 
-class Intro extends React.Component {
+function Intro() {
   
-  render() {
     return (
       <div id="home" className="intro route bg-image background">
         <div id="stars" />
@@ -47,7 +46,6 @@ class Intro extends React.Component {
         </div>
       </div>
     );
-  }
 }
 
 export default Intro;

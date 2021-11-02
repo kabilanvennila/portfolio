@@ -2,12 +2,16 @@
 GENERAL STYLING
 */
 
-html
+/* html
 {
 cursor: url(ufo.png),auto;
-}
+} */
 #me1{
   cursor: pointer;
+}
+
+#home{
+  cursor: url(ufo.png),auto;
 }
 
 body {
@@ -40,7 +44,6 @@ h6 {
 a {
   color: #1e1e1e;
   transition: all 0.5s ease-in-out;
-  cursor: url(ufo.png),auto;
 }
 
 a:hover {
@@ -414,6 +417,9 @@ a:hover {
 /*
 NAVBAR
 */
+.navbar{
+  cursor: url(ufo.png),auto;
+}
 
 .navbar-b {
   transition: all .5s ease-in-out;

@@ -132,7 +132,7 @@ class Contact extends React.Component {
                           <li>
                             <a
                               href="https://github.com/kabilanvennila"
-                              // target="_blank"
+                              target="_blank"
                               // rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
@@ -143,7 +143,7 @@ class Contact extends React.Component {
                           <li>
                             <a
                               href="https://www.linkedin.com/in/kabilan-m-90067018b/"
-                              // rel="noopener noreferrer"
+                              rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
                                 <i className="ion-social-linkedin"></i>
@@ -153,6 +153,7 @@ class Contact extends React.Component {
                           <li>
                             <a
                               href="https://www.instagram.com/i._.kabilan.3096/"
+                              target="_blank"
                               // rel="noopener noreferrer"
                             >
                               <span className="ico-circle">

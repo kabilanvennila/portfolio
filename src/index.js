@@ -28,6 +28,7 @@ import Contact from './components/contact.jsx';
 import BackToTop from './components/back-top.jsx';
 import Preloader from './components/preloader';
 import Res from './components/experience.jsx';
+import PM from './components/projanim.js'
 
 
 ReactDOM.render(
@@ -35,7 +36,8 @@ ReactDOM.render(
         <Navbar />
         <Intro />
         <About />
-        <Portfolio />
+        {/* <Portfolio /> */}
+        <PM/>
         <Res />
         <Contact />
         <BackToTop />
