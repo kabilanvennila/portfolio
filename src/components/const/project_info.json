@@ -2,9 +2,9 @@
     "data": [
       {
         "id" : 0,
-        "name": "Movie Genre Prediction based on Movie Posters",
+        "name": "NNvisualizer -Visualize live Neural-Network training",
         "tools": "Reactjs,Tensorflow",
-        "link": "#"
+        "link": "https://nnvisualizer.netlify.app/"
 
       },
       {
