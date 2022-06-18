@@ -56,7 +56,7 @@ ReactDOM.render(
         <About />
         {/* <Portfolio /> */}
         <PM/>
-        <Res />
+        {/* <Res /> */}
         <Contact />
         <BackToTop />
         <Preloader />

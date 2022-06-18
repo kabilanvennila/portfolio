@@ -5,8 +5,7 @@ class Contact extends React.Component {
     return (
       <section
         className="paralax-mf footer-paralax bg-image sect-mt4 route"
-        // style={{ backgroundImage: "url(" + imageOverlay + ")" }}
-        // style={{backgroundColor :""}}
+        style={{ backgroundImage: "url('https://uploads-ssl.webflow.com/614daa97ccb6f395b241bc68/61583e6c9bf05502c5349c54_Feature%201.png')" ,marginTop:0 }}
       >
         <div className="container"></div>
         <div className="container">

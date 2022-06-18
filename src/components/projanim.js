@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 import './style.css';
 import {Container, Row} from 'react-bootstrap';
 import Animate from 'react-smooth';
-import particles from './const/project_particle.js';
-import Particles from 'react-particles-js';
+// import particles from './const/project_particle.js';
 import ProjectBody from './Proj.js';
 
 class Projects extends Component {

@@ -26,7 +26,7 @@ export default class PM extends Component {
     const { photoIndex, isOpen, image } = this.state;
     
     return (
-      <Row xl={12} className="main_row">
+      <Row xl={12} className="main_row"  style={{ backgroundImage: "url('https://uploads-ssl.webflow.com/614daa97ccb6f395b241bc68/615843d99c2778f0e35e7810_Section%20BG%201-p-1600.png')"  }}>
 
       {info.data.map(item => ( 
         <Col xl={4}  key={item.id} className="card_col">

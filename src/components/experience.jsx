@@ -11,7 +11,7 @@ class Res extends React.Component {
       <section
         id="research"
         className="research-mf sect-pt5 route"
-        style={{backgroundColor :"#050505"}}
+        style={{backgroundColor :"#050505" }}
 
       >
         <div className="container">
@@ -21,7 +21,7 @@ class Res extends React.Component {
              <VerticalTimeline>
                  <VerticalTimelineElement
                     className="vertical-timeline-element--education"
-                    date="Oct 2021"
+                    date="Apr 2022"
                     iconStyle={{ background: 'rgb(233, 30, 99)', color: '#000' }}
                     icon={<ComputerIcon />}
                 >

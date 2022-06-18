@@ -2,41 +2,42 @@
     "data": [
       {
         "id" : 0,
+        "name": "ShortSmry - Summarize Research papers",
+        "tools": "Django,NLTK",
+        "link": "https://youtu.be/s827jXwK2OA"
+
+      },
+      {
+        "id" : 1,
         "name": "NNvisualizer -Visualize live Neural-Network training",
         "tools": "Reactjs,Tensorflow",
         "link": "https://nnvisualizer.netlify.app/"
 
       },
       {
-        "id" : 1,
+        "id" : 2,
         "name": "Candybot - AI Suicide Prevention Bot",
         "tools": "Reactjs,AlanAI,Django",
         "link": "https://candybot.co/"
 
       },
       {
-        "id" : 2,
+        "id" : 3,
         "name": "CrytoPanda - Predict Cryptos using ML",
         "tools": "Streamlit,Scikit,Pandas",
         "link": "https://share.streamlit.io/kabilanvennila/crypanda/main"
       },
       {
-        "id" : 3,
+        "id" : 4,
         "name": "Gity - Github Info Lookup tool",
         "tools": "Reactjs,Github-API",
         "link": "https://reactgity.netlify.app/"
       },
       {
-        "id" : 4,
+        "id" : 5,
         "name": "Animeboo - Sharing Space for Anime lovers",
         "tools": "Django,HTML,CSS",
         "link": "https://github.com/kabilanvennila/animeboo"
-      },
-      {
-        "id" : 5,
-        "name": "Predict placement status using KNN-classification",
-        "tools": "JupyterNotebook,Scikit,Pandas",
-        "link": "https://github.com/kabilanvennila/MachineLearning/blob/master/classification.ipynb"
       }
     ]
   }
