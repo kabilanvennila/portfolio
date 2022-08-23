@@ -105,7 +105,7 @@ class About extends React.Component {
                           </p>
                         );
                       })}
-                      <a
+                      {/* <a
                       id="me1"
                       className="btn btn-primary btn js-scroll px-4"
                       href="https://drive.google.com/drive/folders/1fAh3mdmTu4zQxtWffYpF104939vUYK8P?usp=sharing"
@@ -113,7 +113,7 @@ class About extends React.Component {
                       role="button"
                     >
                       My Resume
-                    </a>
+                    </a> */}
                     </div>
                   </div>
                 </div>
